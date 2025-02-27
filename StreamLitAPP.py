@@ -10,7 +10,10 @@ from scr.mcqgenerator.MCQGenerator import generate_evaluation_chain
 from scr.mcqgenerator.logger import logging
 
 #load file, the file will be Dict type
-with open("Response.json", "r") as f:
+script_dir = os.path.dirname(os.path.abspath(__file__))  # 脚本文件所在目录
+json_path = os.path.join(script_dir, "Response.json")
+
+with open(json_path, "r") as f:
     RESPONSE_JSON = json.load(f)
 
 # Creating a title for websit/app
