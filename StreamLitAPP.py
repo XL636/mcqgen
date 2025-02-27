@@ -10,8 +10,8 @@ from scr.mcqgenerator.MCQGenerator import generate_evaluation_chain
 from scr.mcqgenerator.logger import logging
 
 #load file, the file will be Dict type
-with open(r'C:\Users\LEX\mcqgen\Response.json','r') as file:
-    RESPONSE_JSON = json.load(file)
+with open("Response.json", "r") as f:
+    RESPONSE_JSON = json.load(f)
 
 # Creating a title for websit/app
 st.title("MCQs Creator Application with LangChain :)")
