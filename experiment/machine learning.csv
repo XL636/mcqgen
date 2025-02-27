@@ -1,6 +1,6 @@
 ,MCQ,Choices,Correct
-0,What was the initial goal of machine learning as a scientific endeavor?,a: To develop expert systems | b: To achieve artificial intelligence | c: To improve data representation | d: To enhance symbolic methods,b
+0,What was the original goal of machine learning as a scientific endeavor?,a: To develop expert systems | b: To achieve artificial intelligence | c: To improve data storage | d: To enhance computer graphics,b
 1,Which approach caused a rift between AI and machine learning?,"a: Neural networks | b: Probabilistic reasoning | c: Logical, knowledge-based approach | d: Pattern recognition",c
-2,What dominated AI by 1980?,a: Neural networks | b: Expert systems | c: Inductive logic programming | d: Pattern recognition,b
-3,Who were some of the researchers involved in continuing neural networks research outside AI?,"a: John Hopfield, David Rumelhart, Geoffrey Hinton | b: Alan Turing, John McCarthy, Marvin Minsky | c: Andrew Ng, Yann LeCun, Yoshua Bengio | d: Herbert Simon, Allen Newell, Arthur Samuel",a
-4,In which decade did machine learning start to flourish as its own field?,a: 1970s | b: 1980s | c: 1990s | d: 2000s,c
+2,What was the main success of researchers like John Hopfield and Geoffrey Hinton in the mid-1980s?,a: Development of expert systems | b: Invention of neural networks | c: Reinvention of backpropagation | d: Creation of fuzzy logic,c
+3,In which decade did machine learning start to flourish as its own field?,a: 1970s | b: 1980s | c: 1990s | d: 2000s,c
+4,What did machine learning shift its focus towards in the 1990s?,"a: Symbolic approaches | b: Methods from statistics, fuzzy logic, and probability theory | c: Expert systems | d: Data acquisition techniques",b
